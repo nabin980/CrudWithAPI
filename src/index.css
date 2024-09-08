@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-card-body{
+  
+  padding-bottom: 14px !important;
+}
